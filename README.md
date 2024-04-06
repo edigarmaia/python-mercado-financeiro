@@ -8,3 +8,8 @@
 - Pandas
 - Selenium
 - Webdriver
+
+## Projeto Analise Fundamentalista com Dados - Lojas Renner
+- Pandas 
+- Matplotlib
+- Mplcyberpunk
